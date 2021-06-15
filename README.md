@@ -1,4 +1,4 @@
-# Projet analyse des sentiments
+# Analyse des sentiments
 ## Introduction
 Dans le cadre de notre projet de fin d'études réalisé au sein de la Direction Régionale de Kairouan de Tunisie Telecom, nous avons préparé deux corpus : l'un destiné à l'analyse des sentiments et l'autre à la classification par service.  
 Nous mettons nos corpus à la disposition du public pour l'utiliser dans d'autres travaux afin de comparer nos résultats avec d'autres méthodes.
