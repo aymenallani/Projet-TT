@@ -7,7 +7,7 @@ Nos corpus sont composés des avis des clients de Tunisie Telecom partagés sur 
 Notre corpus destiné à l'analyse de sentiment est composé de plus de 2000 avis que nous avons étiquetés selon la polarité (Positif, Négatif et Neutre).  
 Notre corpus destiné à la classification par service est composé de 1001 avis que nous avons étiqueté selon le thème de service mentionné dans les avis des clients (ADSL, service technique, internet mobile, service client, service e-Facture, application MY TT).
 ## Présentation des résultats obtenus
-Après une étude expérimentale, dans laquelle nous avons testé plusieurs algorithmes d'apprentissage automatique et d'apprentissage profond, le CNN nous a fourni la meilleure précision.  
+Après une étude expérimentale, dans laquelle nous avons testé plusieurs algorithmes d'apprentissage automatique et d'apprentissage profond, le CNN nous a fourni les meilleures précisions.  
 Comme le montre la figure ci-dessous, notre modèle a atteint une précision de 90% sur les données d'entraînement dans la classification des sentiments.
 ![git1](https://user-images.githubusercontent.com/85906009/122033094-1f775680-cdc8-11eb-87e1-0491762cd242.png)
 Dans la classification par service, comme le montre la figure ci-dessous, notre modèle a atteint une précision de 97% sur les données d’entrainement.
